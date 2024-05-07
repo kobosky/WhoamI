@@ -28,4 +28,4 @@ One thing that you could do better is [Docker](https://hub.docker.com)
 *Trust*
 *Honesty*
 
-![alt text](dog.jpg)
+![alt text](Dog.jpg)
